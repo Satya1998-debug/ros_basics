@@ -22,6 +22,8 @@ setup(
         'console_scripts': [
             'talker = ros_basics.publisher_member_function:main',
             'listener = ros_basics.subscriber_member_function:main',
+            'service = ros_basics.service_member_function:main',
+            'client = ros_basics.client_member_function:main',
         ],
     },
 )

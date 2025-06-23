@@ -34,8 +34,8 @@ This package demonstrates the following ROS 2 concepts:
     │   ├── __init__.py
     │   ├── publisher_node.py
     │   ├── subscriber_node.py
-    │   ├── service_server.py
-    │   ├── service_client.py
+    │   ├── server_node.py
+    │   ├── client_node.py
     │   ├── action_server.py
     │   ├── action_client.py
     │   ├── parameter_node.py
@@ -54,6 +54,12 @@ This package demonstrates the following ROS 2 concepts:
 
 ### Subscriber
 ``` ros2 run ros_basics listener ```
+
+### Server
+``` ros2 run ros_basics server ```
+
+### Client
+``` ros2 run ros_basics client ```
 
 
 

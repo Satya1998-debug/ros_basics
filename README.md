@@ -49,10 +49,10 @@ This package demonstrates the following ROS 2 concepts:
 
 ## Run Examples
 
-### Publisher
+Publisher:
 ``` ros2 run ros_basics talker ```
 
-### Subscriber
+Subscriber:
 ``` ros2 run ros_basics listener ```
 
 ### Server

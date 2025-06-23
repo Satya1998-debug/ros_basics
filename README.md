@@ -59,7 +59,7 @@ This package demonstrates the following ROS 2 concepts:
 ``` ros2 run ros_basics server ```
 
 ### Client
-``` ros2 run ros_basics client ```
+``` ros2 run ros_basics client num1 num2```
 
 
 

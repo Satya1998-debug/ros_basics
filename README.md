@@ -47,6 +47,13 @@ This package demonstrates the following ROS 2 concepts:
     │   └── Countdown.action
 ```
 
+## Run Examples
+
+### Publisher
+``` ros2 run ros_basics talker ```
+
+### Subscriber
+``` ros2 run ros_basics listener ```
 
 
 
